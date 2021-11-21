@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CSCI39548_bor_assn04/static/css/main.2003f3ee.chunk.css",
+    "main.js": "/CSCI39548_bor_assn04/static/js/main.54bc8222.chunk.js",
+    "main.js.map": "/CSCI39548_bor_assn04/static/js/main.54bc8222.chunk.js.map",
+    "runtime-main.js": "/CSCI39548_bor_assn04/static/js/runtime-main.acbb36a4.js",
+    "runtime-main.js.map": "/CSCI39548_bor_assn04/static/js/runtime-main.acbb36a4.js.map",
+    "static/js/2.8a0c0b26.chunk.js": "/CSCI39548_bor_assn04/static/js/2.8a0c0b26.chunk.js",
+    "static/js/2.8a0c0b26.chunk.js.map": "/CSCI39548_bor_assn04/static/js/2.8a0c0b26.chunk.js.map",
+    "static/js/3.cf8fcc4a.chunk.js": "/CSCI39548_bor_assn04/static/js/3.cf8fcc4a.chunk.js",
+    "static/js/3.cf8fcc4a.chunk.js.map": "/CSCI39548_bor_assn04/static/js/3.cf8fcc4a.chunk.js.map",
+    "index.html": "/CSCI39548_bor_assn04/index.html",
+    "static/css/main.2003f3ee.chunk.css.map": "/CSCI39548_bor_assn04/static/css/main.2003f3ee.chunk.css.map",
+    "static/js/2.8a0c0b26.chunk.js.LICENSE.txt": "/CSCI39548_bor_assn04/static/js/2.8a0c0b26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acbb36a4.js",
+    "static/js/2.8a0c0b26.chunk.js",
+    "static/css/main.2003f3ee.chunk.css",
+    "static/js/main.54bc8222.chunk.js"
+  ]
+}
